@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sunmiui-1.1.25">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/7ccad455fe224ceec885566a1905339cdf13fe5f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/7ccad455fe224ceec885566a1905339cdf13fe5f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sunmi/sunmiui/1.1.25/fe03ca8423a76ea4b99fefbafe21735ca7bdd681/sunmiui-1.1.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

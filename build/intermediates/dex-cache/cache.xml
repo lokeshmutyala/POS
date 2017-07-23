@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\084bb8faf41e8966312750f71859ef71b67b884a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_104d9e2fcf533b816f21aac7b215da12d4b50635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\743e3edea87c5a189e9cd5928b155bbe5e787e97\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_fb94b6eb1f58d4dd5240674a7b8335edb4cf7681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\497dfaec9214bcfb45f55d3816915b3e2a81c2da\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_426b6450183b452b8c265326dfbed7edaa2341dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\c8264b108f5efaac44b015aa4cce71d8735f0921\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_294d5f93e94341063ba07fcd18aef1993fb091c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\a5e0cc581763847db2966c9cf88cc4f13028aca8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_2bcbaa3c4e29f7813f3d8ce14a83111524e034f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\cdc1694f82044924dbe208804ef31aafe23c01e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_fd812be3c6e3955770dc797fb4991402b8e64240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_e776ea422a31b39176549e3e5d60a894457bdafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\ad6485254e2e1d956267f47629a9bb5d551e6b01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4f4ea23e266a7ccff8e4d57eaa2ce41ea6ba8ff4">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_6087d99e7299c31f594b5d1298c088848e351024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\b3dac5fe7b56877ec361725aaa54d570b89d2334\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_bbf7f8506cfbd1116f01df0b62a498d414a64ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2_8b96e9a0056f8c52a0cba1bc1aa04a7fe6d24ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\7f96747a89401d5b4b29a0f92e52c4ef36a0db03\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c231daf95c14cc184fdbf8f2b38d9224fe6856d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_d3af4a6039c1a0ed98d173c1563418e8dc6a64b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\7ccad455fe224ceec885566a1905339cdf13fe5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="803dec4fbeae9197dfb3db7f2b1a7d95eb8529e1">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_182923c86168d10cfe048d46426db8be76ef91f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\913b7aa68f69d61838246c15b8cfdaaf13843879\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_bee9dd71b7c50f606ab7014d11bb031feb245bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\gson-2.3.1_36c7898e7345449db5e308ec26fb6ba8ea5b27f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\io.requery\requery\1.3.0\edb31b446090bc00d809d8a7fb0bcd570f9ec03f\requery-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edb31b446090bc00d809d8a7fb0bcd570f9ec03f">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\requery-1.3.0_96909da45ae1bc65c794e837addc69ba90dc063a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_1322d3d9ad10e09e86389ef38dc1edd987639d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\7f96747a89401d5b4b29a0f92e52c4ef36a0db03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_89a75891ec6971b545a8fad4d3194020ac24b49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\4388f2001f4918fc99553048a5988b315a10a673\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_b4aecef461650aef49a2e504e5025cf28fd3016e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2_9e3bc94994c98eefdccda32e0df0f842b8b326a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\a7a969411064635822245bfb264027621f04b74c\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_76d09376a229a2b8b705c52dd146580ef4555b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\f6c0268106e4e9e50e66691b79fdc0d35849ca14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_070e40616e6766a2015bc9b3081f4a8fc4ecda16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_3352ce3ca02fa8ee78e307b519ae44a7dcbb8090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\b3dac5fe7b56877ec361725aaa54d570b89d2334\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_21c8ba137a65896003414561dad8f369ad40ee9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_49e702d738d13860f8a31aeb44fc8b1ed5922758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\497dfaec9214bcfb45f55d3816915b3e2a81c2da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_db3566bf0d32dbb9cb4eeb647f7b445a84ca08a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\a7a969411064635822245bfb264027621f04b74c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_47d99256484e5a80ed09da56fc2e8c935616e628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\743e3edea87c5a189e9cd5928b155bbe5e787e97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_b42387fa777fe11d8eec15714144cd501635f621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.1.0\7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5\converter-scalars-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\converter-scalars-2.1.0_b898cae3621d7702eacf19dbcd0b438ac1c3b434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\a55a9d91ee2d6ed98e24718499bcee6772b5c3c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_8bec52d03a579b0fdbc39a46ecee7094252f060e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\okio-1.8.0_b97892aef11466786c451ae78547a87c39e5f90d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\216c8a4707c4917f62877644099fad7478e1051d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_096b35b663d5cfcad77e19ef89695589e3c9a17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\985771cdff0ff4d61c04a095f01398cc64170295\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_3096973ec5823c225c9d8cd04fff41033edd3a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.6\b0100ee9ceee5d1861371aefc814cee3e78ed23b\rxjava-2.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b0100ee9ceee5d1861371aefc814cee3e78ed23b">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\rxjava-2.0.6_034b1c5666030388d35a501af65bff6e2ebb96c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\06caf8dbab2e9343edf016938d0c682db1286c01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_3f9b1eb1d3adce647bf030383f3b2b3b354bfc21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\.android\build-cache\5f461612c9e4fdc9e39ebded9d10b16483878328\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\classes_354e37ec6468941cfdcf6ce48e5675e906d38bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lokeshmutyala\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\lokeshmutyala\Desktop\EffectiveNavigation1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_27c3499c34ea8475eac4ba63d3b4d7c3b8d24609.jar" />
+    </item>
+
+</items>

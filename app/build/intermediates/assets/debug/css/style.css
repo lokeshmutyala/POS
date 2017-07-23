@@ -1,0 +1,323 @@
+#pageLoader{
+position: relative;
+top: 175px;
+}
+#index{
+color:black;
+}
+
+
+ #PIN {
+    	 -webkit-text-security: disc;
+    	  background-color: transparent;
+    	  border-color:#029BFF;
+}
+
+#firstname{
+		 background-color: transparent; 
+		 border-color:#029BFF;
+		 }
+		 
+		 
+#email{
+         background-color: transparent; 
+		 border-color:#029BFF;
+		 }
+		 
+		 
+#roles{
+	     background-color: transparent; 
+		 border-color:#029BFF;
+		 }
+		 
+		 
+#phone{
+	     background-color: transparent; 
+		 border-color:#029BFF;
+		 }
+		 
+		 
+#verified_otp{
+	-webkit-text-security: disc;
+	background-color: transparent; 
+     border-color:#029BFF;
+     }
+
+#pin_id{
+ 	-webkit-text-security: disc;
+	background-color: transparent; 
+     border-color:#029BFF;
+     }
+
+     
+     
+#reg{
+font-size: 18px;
+background-color: #029BFF !important;
+border-color:transparent;
+padding: 0px;
+
+}
+
+
+.reg_submit{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+.reg_submit:active{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+.reg_submit:hover{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+     
+     
+body {
+    overflow-x:hidden;
+    overflow-y:hidden;
+    
+}
+
+
+html {
+    overflow-x:hidden;
+    overflow-y:hidden;
+    
+}
+
+
+.custom{
+        width:100px !important;
+        margin-top: -6px !important;
+        background-color: #029BFF !important ;
+        border-color:transparent;
+    }
+    
+    
+    
+
+#brush:before {
+    font-size: 15px !important;
+    color: white;
+    }
+    
+label.btn.btn-default.active {
+    border-color: #0D416D !important;
+    }
+  
+        
+.intl-tel-input {display: table-cell;}
+         
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+ 
+button.btn.btn-nav.btn-primary {
+    border-radius: 0px;
+    background-color: transparent !important;
+    border-color:lightgray;
+}
+
+
+
+
+.right.carousel-control, .left.carousel-control {
+    display: none;
+   
+}
+
+
+#login_submit{
+font-size: 18px;
+background-color: #029BFF !important;
+border-color:transparent;
+
+}
+
+.log_submit{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+.log_submit:active{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+.log_submit:hover{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+
+
+
+.change_pin_submit1{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+.change_pin_submit2{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+.change_pin_submit1:active{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+.change_pin_submit2:active{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+.change_pin_submit1:hover{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+.change_pin_submit2:hover{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+#reset_pin_submit{
+font-size: 18px;
+background-color: #029BFF !important;
+border-color:transparent;
+
+}
+.new_pin_submit1{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+.new_pin_submit2{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+.new_pin_submit1:active{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+.new_pin_submit2:active{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+.new_pin_submit1:hover{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+.new_pin_submit2:hover{
+font-size: 18px;
+background-color: #029BFF !important ;
+}
+
+
+
+#pin_id1{
+ 	-webkit-text-security: disc;
+ 	 background-color: transparent;
+ 	  border-color:#029BFF;
+ 	}
+#pin_id2{
+ 	-webkit-text-security: disc;
+ 	background-color: transparent;
+ 	 border-color:#029BFF ;
+ 	}
+ 
+#image{
+
+    margin: 0px !important;
+    width: 1129px !important;
+   
+}
+
+#m_icon{
+font-size: 22px;
+}
+
+
+
+  
+.fa-hand-o-left{
+    font-size: 45px;
+    color:white;
+    padding-right: 20px;
+    }
+ 
+ 
+.fa-home:before {
+font-size: 35px;
+color:#029BFF;
+//color:#0B0B61;
+ 
+}
+
+.fa-phone:before {
+font-size: 35px;
+ color:#029BFF;
+//color:#0B0B61;
+}
+
+.fa-map-marker:before {
+font-size: 35px;
+color:#029BFF;
+//color:#0B0B61;
+}
+
+.fa-search:before {
+font-size: 35px;
+color:#029BFF;
+//color:#0B0B61;
+}
+
+.fa-cog:before {
+font-size: 35px;
+color:#029BFF;
+//color:#0B0B61;
+}
+
+
+.fa-calendar:before {
+font-size: 35px;
+color:#029BFF;
+//color:#0B0B61;
+}
+
+p{
+ color: white;
+ 
+}
+
+.navbar-header{
+margin-top: 14px;
+}
+
+#navbar {
+    background-color: #029BFF;
+    border-color: #029BFF;
+  // background-color:#0B0B61;
+   //border-color:#0B0B61;
+  }
+
+.navbar-header{
+ margin-top: 5px !important; 
+ margin-bottom: 5px !important;
+ }
+ 
+ #heading{
+ margin-right:50px;
+ 
+ }
+ 
+ 
+ .fa-hand-o-left:before {
+    content: "\f0a5";
+    margin: 2px;
+    font-size: 40px;
+    

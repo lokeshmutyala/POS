@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.effectivenavigation.database.webviews.Reports">
+
+    <WebView
+        android:id="@+id/reportswebview"
+        android:layout_width="585dp"
+        android:layout_height="810dp"
+        tools:layout_editor_absoluteY="7dp"
+        tools:layout_editor_absoluteX="8dp"></WebView>
+
+    <android.support.v4.widget.ContentLoadingProgressBar
+        android:id="@+id/progressbar"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_10sdp"
+        android:progress="50"
+        android:visibility="visible" />
+</android.support.constraint.ConstraintLayout>

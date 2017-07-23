@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+    <title>Mail</title>
+
+    <link rel="stylesheet" href="bootstrap-3.3.4/css/bootstrap.css" media="screen" type="text/css" />
+    <script type="text/javascript" src="plugins/jquery-1.11.2.min.js"></script>
+    <script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
+    <script src="js/support.js"></script>
+
+    <link rel="stylesheet" href="plugins/materialize.min.css">
+    <script type="text/javascript" src="plugins/jquery-2.1.1.js"></script>
+    <script src="plugins/materialize.min.js"></script>
+
+</head>
+
+
+
+
+
+
+<body class="" style="margin: 0px;">
+<div class="main-container">
+    <!-- Navigation -->
+
+
+
+
+
+    <form accept-charset="UTF-8">
+
+        <div class="row">
+            <div class="input-field col s12">
+                <input disabled value="nearhereindia@gmail.com" id="disabled" type="text" class="validate">
+                <label for="disabled">Email</label>
+            </div>
+
+            <!--<div class="input-field col subject_field s12">-->
+                <!--<input placeholder=" Enter your Subject here" id="first_name" type="text" class="validate">-->
+                <!--<label for="first_name">* Subject</label>-->
+            <!--</div>-->
+        </div>
+
+        <div class="row" style="margin-top: -20px;">
+            <div class="input-field col s12">
+
+                <textarea id="address" class="materialize-textarea address"></textarea>
+                <label for="address">* Body</label>
+            </div>
+        </div>
+
+
+        <!--<center><button class="waves-effect waves-light btn blue" id="send_email_id" onclick="send_emails();" style="width: 208px;">Send Email</button></center> <br>-->
+
+    </form>
+
+    <center><button class="waves-effect waves-light btn blue" id="send_email_id" onclick="send_emails();" style="width: 208px;">Send Email</button></center> <br>
+
+
+</body>
+
+</html>

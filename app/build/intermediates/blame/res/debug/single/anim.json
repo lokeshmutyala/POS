@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_open.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\anim\\fab_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\913b7aa68f69d61838246c15b8cfdaaf13843879\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\913b7aa68f69d61838246c15b8cfdaaf13843879\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_backward.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\anim\\rotate_backward.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_forward.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\anim\\rotate_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\loading_anim.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\7ccad455fe224ceec885566a1905339cdf13fe5f\\output\\res\\anim\\loading_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\913b7aa68f69d61838246c15b8cfdaaf13843879\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\913b7aa68f69d61838246c15b8cfdaaf13843879\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\5f461612c9e4fdc9e39ebded9d10b16483878328\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\913b7aa68f69d61838246c15b8cfdaaf13843879\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_close.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\anim\\fab_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\lokeshmutyala\\.android\\build-cache\\913b7aa68f69d61838246c15b8cfdaaf13843879\\output\\res\\anim\\design_snackbar_out.xml"
+    }
+]

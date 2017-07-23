@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\invoice.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_billing.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\menu_billing.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_menu.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_invoices_drawer.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\activity_invoices_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_webviews_drawer.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\activity_webviews_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawe_layout.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\drawe_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\webviews.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\webviews.xml"
+    },
+    {
+        "merged": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_drawer.xml",
+        "source": "C:\\Users\\lokeshmutyala\\Desktop\\EffectiveNavigation1\\app\\src\\main\\res\\menu\\activity_navigation_drawer.xml"
+    }
+]
